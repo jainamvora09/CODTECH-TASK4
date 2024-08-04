@@ -5,8 +5,8 @@
 **Duration:** Jult to August 2024<br>
 
 ## Overview of the Project
-## Project: Sales Performance Dashboard
-![HR Analytics Dashboard](https://github.com/jainamvora09/CODTECH-TASK4/blob/main/HR_Dashboard.png)
+## Project: Human Resources Analytics
+![HR Dashboard](https://github.com/jainamvora09/CODTECH-TASK4/blob/main/HR_Dashboard.png)
 
 ## Objective
 To create an interactive and comprehensive HR analytics dashboard in Power BI that provides valuable insights into employee attrition, demographic distribution, and other key HR metrics.
