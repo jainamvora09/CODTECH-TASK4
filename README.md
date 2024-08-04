@@ -6,7 +6,7 @@
 
 ## Overview of the Project
 ## Project: Sales Performance Dashboard
-![Sales Dashboard](https://github.com/jainamvora09/CODTECH-TASK1/blob/main/HR_Dashboard.png)
+![HR Dashboard](https://github.com/jainamvora09/CODTECH-TASK1/blob/main/HR_Dashboard.png)
 
 ## Objective
 To create an interactive and comprehensive sales dashboard in Power BI that provides valuable insights into sales performance, customer segments, regional distribution, and product categories.
